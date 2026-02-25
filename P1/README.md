@@ -1,16 +1,16 @@
-## DIU - Practica1, entregables
+# DIU - Practica1, entregables
 
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
 >>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
 
-# 1.a User Research Plan: Análisis de Usabilidad de Goiko (DIU3)
+## 1.a User Research Plan: Análisis de Usabilidad de Goiko (DIU3)
 
-## 1. Descripción
+### 1. Descripción
 Este **UX Research Plan** constituye el marco estratégico para evaluar la plataforma web de **Goiko**. El objetivo es desglosar la "Experiencia Goiko" digital, analizando cómo la interfaz gestiona el equilibrio entre su potente identidad visual y la funcionalidad técnica necesaria para realizar pedidos personalizados y reservas en sus locales de Granada.
 
 ---
 
-## 2. Antecedentes y Objetivos (The "Why")
+### 2. Antecedentes y Objetivos (The "Why")
 
 * **Contexto:** Goiko es un referente en el sector *Fast Food Gourmet*. Evaluamos su plataforma en este momento para identificar si su compleja interfaz visual (rica en animaciones y fotografía de alta fidelidad) supone una barrera de rendimiento o usabilidad para el usuario que busca una conversión rápida.
 * **Objetivos de investigación:**
@@ -22,7 +22,7 @@ Este **UX Research Plan** constituye el marco estratégico para evaluar la plata
 
 ---
 
-## 3. Metodología (The "How")
+### 3. Metodología (The "How")
 
 Utilizaremos el siguiente enfoque metodológico basado en el framework de Christian Rohrer:
 * **Cuantitativa:** Uso del cuestionario **SUS (System Usability Scale)** para obtener una valoración numérica de la satisfacción del usuario tras interactuar con el sistema de pedidos.
@@ -31,7 +31,7 @@ Utilizaremos el siguiente enfoque metodológico basado en el framework de Christ
 
 ---
 
-## 4. Perfil de los Participantes (The "Who")
+### 4. Perfil de los Participantes (The "Who")
 
 * **Criterios de inclusión:**
     * **Edad:** Segmento principal de 18 a 35 años (estudiantes y jóvenes profesionales).
@@ -43,7 +43,7 @@ Utilizaremos el siguiente enfoque metodológico basado en el framework de Christ
 
 ---
 
-## 5. Guion y Tareas (The "What")
+### 5. Guion y Tareas (The "What")
 
 Se propondrán tres tareas críticas para testear los puntos de fricción:
 1.  **Tarea 1:** "Accede a la carta, elige la hamburguesa 'Kevin Bacon', cambia el queso por uno vegano, añade un extra de huevos fritos y añádela al carrito".
@@ -52,7 +52,7 @@ Se propondrán tres tareas críticas para testear los puntos de fricción:
 
 ---
 
-## 6. Cronograma y Entregables
+### 6. Cronograma y Entregables
 
 El estudio culminará en los siguientes documentos:
 * **Matriz de Análisis Competitivo:** Comparativa Goiko vs Competencia.
