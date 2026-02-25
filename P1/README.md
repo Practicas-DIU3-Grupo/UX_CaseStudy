@@ -12,10 +12,10 @@ Este **UX Research Plan** constituye el marco estratégico para evaluar la plata
 
 ### 2. Antecedentes y Objetivos (The "Why")
 
-* **Contexto:** Goiko es un referente en el sector *Fast Food Gourmet*. Evaluamos su plataforma en este momento para identificar si su compleja interfaz visual (rica en animaciones y fotografía de alta fidelidad) supone una barrera de rendimiento o usabilidad para el usuario que busca una conversión rápida.
+Goiko es un referente en el sector *Fast Food Gourmet*. Evaluamos su plataforma en este momento para identificar si su compleja interfaz visual (rica en animaciones y fotografía de alta fidelidad) supone una barrera de rendimiento o usabilidad para el usuario que busca una conversión rápida.
 * **Objetivos de investigación:**
-    * **Eficiencia en la personalización:** Evaluar si el usuario es capaz de configurar una hamburguesa "a medida" (modificar ingredientes y punto de la carne) y llegar al checkout en menos de 90 segundos.
-    * **Arquitectura de información:** Comprobar si la localización de los menús diarios y promociones específicas de los locales de Granada es intuitiva.
+    * **Eficiencia en la personalización:** Evaluar si el usuario es capaz de pedir una hamburguesa "a medida" (modificar ingredientes y punto de la carne) y llegar al checkout en menos de 90 segundos.
+    * **Arquitectura de información:** Comprobar si la localización de los menús diarios y promociones específicas de los locales es intuitiva.
     * **Gestión de errores:** Analizar la respuesta del sistema cuando un usuario intenta reservar en un horario sin disponibilidad.
 * **Experiencia del equipo / Justificación:**
     * **Como observadores:** Hemos detectado que, aunque la web de Goiko es estéticamente atractiva, el proceso de "log-in" obligatorio o la carga de elementos gráficos pesados a veces frustra al usuario con hambre, provocando el abandono de la web hacia apps de terceros como JustEat o Glovo.
