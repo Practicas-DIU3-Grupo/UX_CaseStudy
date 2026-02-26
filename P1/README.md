@@ -3,59 +3,31 @@
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
 >>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
 
-## 1. User Research Plan: Goiko
+## 1. User Research Plan
 
-### Descripción
-Este **UX Research Plan** constituye el marco estratégico para evaluar la plataforma web de **Goiko**. El objetivo es desglosar la "Experiencia Goiko" digital, analizando cómo la interfaz gestiona el equilibrio entre su potente identidad visual y la funcionalidad técnica necesaria para realizar pedidos personalizados y reservas en sus locales de Granada (entre otras cosas).
+Este **UX Research Plan** define la estrategia de investigación para el sector de la **gourmet fast food**. El proyecto se centra en entender cómo los usuarios interactúan con plataformas digitales de alimentación donde la inmediatez del servicio debe convivir con una alta personalización del producto y una identidad visual potente. El objetivo es adquirir conocimientos que permitan optimizar el diseño de interfaces en el ámbito de la hostelería moderna, asegurando una transmisión clara de las acciones del usuario y una experiencia de uso memorable.
 
----
-
-### Antecedentes y Objetivos (The "Why")
-
-Goiko es un referente en el sector *Fast Food Gourmet*. Evaluamos su plataforma en este momento para identificar si su compleja interfaz visual (rica en animaciones y fotografía de alta fidelidad) supone una barrera de rendimiento o usabilidad para el usuario que busca una conversión rápida.
 * **Objetivos de investigación:**
-    * **Eficiencia en la personalización:** Evaluar si el usuario es capaz de pedir una hamburguesa "a medida" (modificar ingredientes y punto de la carne) y llegar al checkout en menos de 90 segundos.
-    * **Arquitectura de información:** Comprobar si la localización y navegación de ciertos apartados es correcta.
-    * **Gestión de errores:** Analizar la respuesta del sistema cuando un usuario intenta reservar en un horario sin disponibilidad.
+    * Evaluar la **eficiencia**: medir si el flujo de personalización de ingredientes (puntos de carne, toppings, alérgenos) es intuitivo y rápido.
+    * Analizar la **navegabilidad y arquitectura de información**: comprobar si los apartados críticos (carta, ubicación, reservas) son fácilmente localizables.
+    * Estudiar la **satisfacción y persuasión**: observar cómo influye la carga gráfica y el branding en la decisión final de compra y en la fidelización del usuario.
 * **Experiencia del equipo / Justificación:**
-    * **Como observadores:** Hemos detectado que, aunque la web de Goiko es estéticamente atractiva, la carga de elementos gráficos pesados o que no haya opción de volver al menú principal una vez accedes a la sección "Goikocina" a veces frustra al usuario con hambre, provocando el abandono de la web hacia apps de terceros como JustEat o Glovo.
+    * **Como observadores:** Hemos detectado que las interfaces de restauración a menudo priorizan la estética sobre la usabilidad, provocando que elementos visuales pesados o flujos de navegación cerrados dificulten tareas básicas como la edición del carrito o la consulta rápida de la carta.
+    * **Como diseñadores:** Contamos con las habilidades para desarrollar una arquitectura de información que equilibre el atractivo visual con un rendimiento técnico fluido y accesible.
 
----
+Se recopilará información **cualitativa y cuantitativa** para obtener una visión tridimensional del comportamiento del usuario:
+* **Cualitativa:** Pruebas de usabilidad moderadas, entrevistas de experiencia y estudios etnográficos para comprender las motivaciones y "puntos de dolor" durante la interacción.
+* **Cuantitativa:** Encuestas de satisfacción, análisis de métricas...
 
-### Metodología (The "How")
+Para garantizar la representatividad de la muestra, reclutaremos perfiles con distintas competencias:
+* **Nativos Digitales (18-35 años):** Usuarios habituados al e-commerce y apps de delivery que buscan rapidez, eficiencia y una estética de interfaz moderna.
+* **Usuarios con necesidades específicas:** Perfiles que pueden presentar dificultades ante interfaces complejas o que requieren información crítica de forma urgente (restricciones alimentarias, opciones veganas o baja competencia digital).
 
-Utilizaremos el siguiente enfoque metodológico basado en el framework de Christian Rohrer:
-* **Cuantitativa:** Uso del cuestionario **SUS (System Usability Scale)** para obtener una valoración numérica de la satisfacción del usuario tras interactuar con el sistema de pedidos.
-* **Cualitativa (Comportamiento):** **Pruebas de usabilidad moderadas**, observando dónde se detiene el ratón del usuario (puntos de duda) durante el proceso de configuración de la hamburguesa.
-* **Comparativa:** Benchmarking de la web de Goiko frente a competidores con interfaces más minimalistas (ej. *Five Guys*) para medir la eficacia del flujo de usuario.
+Se proponen tareas críticas que testean la robustez y claridad de cualquier sistema de restauración gourmet:
+1.  **Personalización y Selección:** Configurar un producto complejo con modificaciones específicas de ingredientes y añadirlo correctamente al carrito de compra.
+2.  **Localización y Disponibilidad:** Localizar el punto de venta físico más cercano y verificar la disponibilidad de reserva o el horario de apertura en tiempo real.
+3.  **Gestión de Conversión:** Revisar el resumen del pedido, aplicar códigos promocionales y encontrar el desglose final de costes de servicio o envío.
 
----
+La investigación guiará decisiones estratégicas como la optimización de funcionalidades, la mejora de los tiempos de respuesta o la mejora visual (entre otros).
 
-### Perfil de los Participantes (The "Who")
-
-* **Criterios de inclusión:**
-    * **Edad:** Segmento principal de 18 a 35 años (estudiantes y jóvenes profesionales).
-    * **Competencia digital:** Usuarios familiarizados con el e-commerce y el uso de filtros en menús digitales.
-    * **Dispositivo:** Usuarios que accedan mayoritariamente a través de dispositivos móviles.
-* **Segmentación:**
-    * **Usuarios novatos:** Personas que nunca han pedido en Goiko web para medir la curva de aprendizaje.
-    * **Usuarios expertos:** Clientes habituales para evaluar si las funciones de "repetir pedido" o "favoritos" son realmente útiles.
-
----
-
-### Guion y Tareas (The "What")
-
-Se propondrán tres tareas críticas para testear los puntos de fricción:
-1.  **Tarea 1:** "Accede a la carta, elige la hamburguesa 'Kevin Bacon', cambia el queso por uno vegano, añade un extra de huevos fritos y añádela al carrito".
-2.  **Tarea 2:** "Encuentra el restaurante Goiko más cercano a la Facultad de Informática (Granada) y verifica si tienen disponibilidad para una mesa de 2 personas hoy a las 22:00".
-3.  **Tarea 3:** "Intenta aplicar un código de descuento imaginario en el resumen del carrito y localiza el desglose final de gastos de envío".
-
----
-
-### Cronograma y Entregables
-
-El estudio culminará en los siguientes documentos:
-* **Matriz de Análisis Competitivo:** Comparativa Goiko vs Competencia.
-* **Fichas de User Persona:** Basadas en los comportamientos observados en Goiko.
-* **Usability Review (Excel):** Revisión detallada de los 10 puntos de usabilidad sobre la web actual.
-* **Informe de Recomendaciones:** Listado de mejoras prioritarias para reducir la tasa de abandono en el carrito.
+## 2. Desk Research: Competitor Analysis
