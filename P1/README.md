@@ -38,5 +38,5 @@ Para contextualizar el análisis, compararemos "Goiko" con "Vicio" y "Mostaza Gr
 * https://goiko.com
 * https://vicio.com
 * https://mostazagreen.com
-* 
+
 ![Análisis Competitivo](Competitor_Analysis.png)
