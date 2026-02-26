@@ -31,3 +31,10 @@ Se proponen tareas críticas que testean la robustez y claridad de cualquier sis
 La investigación guiará decisiones estratégicas como la optimización de funcionalidades, la mejora de los tiempos de respuesta o la mejora visual (entre otros).
 
 ## 2. Desk Research: Competitor Analysis
+
+Hemos decidido de entre las opciones centrarnos en la cadena de hamburgueserías gourmet "Goiko". Consideramos que hay más aspectos de mejora en su interfaz frente a otras opciones (como The Champions Burger), por lo que podremos detectar oportunidades de optimización en la accesibilidad y usabilidad, especialmente en el flujo de personalización.
+
+Para contextualizar el análisis, compararemos "Goiko" con "Vicio" y "Mostaza Green Burger". Estas dos últimas representan los dos extremos del mercado local y digital: Vicio es una empresa de gran escala con un enfoque puramente "digital-first" y una UX móvil impecable, mientras que Mostaza Green es el referente local en Granada con una propuesta estética muy fuerte pero una plataforma web que, al igual que Goiko, prioriza la imagen sobre la funcionalidad en ciertos puntos.
+* https://goiko.com
+* https://vicio.com
+* https://mostazagreen.com
