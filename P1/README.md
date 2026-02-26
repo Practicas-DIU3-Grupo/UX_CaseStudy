@@ -11,7 +11,7 @@ Este **UX Research Plan** define la estrategia de investigación para el sector 
     * Evaluar la **eficiencia**: medir si el flujo de personalización de ingredientes (puntos de carne, toppings, alérgenos) es intuitivo y rápido.
     * Analizar la **navegabilidad y arquitectura de información**: comprobar si los apartados críticos (carta, ubicación, reservas) son fácilmente localizables.
     * Estudiar la **satisfacción y persuasión**: observar cómo influye la carga gráfica y el branding en la decisión final de compra y en la fidelización del usuario.
-* **Experiencia del equipo / Justificación:**
+* **Experiencia del equipo:**
     * **Como observadores:** Hemos detectado que las interfaces de restauración a menudo priorizan la estética sobre la usabilidad, provocando que elementos visuales pesados o flujos de navegación cerrados dificulten tareas básicas como la edición del carrito o la consulta rápida de la carta.
     * **Como diseñadores:** Contamos con las habilidades para desarrollar una arquitectura de información que equilibre el atractivo visual con un rendimiento técnico fluido y accesible.
 
