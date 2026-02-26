@@ -3,10 +3,10 @@
 >>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
 >>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
 
-## 1.a User Research Plan: Análisis de Usabilidad de Goiko (DIU3)
+## 1. User Research Plan: Goiko
 
 ### Descripción
-Este **UX Research Plan** constituye el marco estratégico para evaluar la plataforma web de **Goiko**. El objetivo es desglosar la "Experiencia Goiko" digital, analizando cómo la interfaz gestiona el equilibrio entre su potente identidad visual y la funcionalidad técnica necesaria para realizar pedidos personalizados y reservas en sus locales de Granada.
+Este **UX Research Plan** constituye el marco estratégico para evaluar la plataforma web de **Goiko**. El objetivo es desglosar la "Experiencia Goiko" digital, analizando cómo la interfaz gestiona el equilibrio entre su potente identidad visual y la funcionalidad técnica necesaria para realizar pedidos personalizados y reservas en sus locales de Granada (entre otras cosas).
 
 ---
 
