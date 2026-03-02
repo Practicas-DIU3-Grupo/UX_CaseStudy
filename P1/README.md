@@ -43,6 +43,9 @@ Para contextualizar el análisis, compararemos "Goiko" con "Vicio" y "Mostaza Gr
 
 ## 3. Personas
 
-Presentamos dos personas distintas, donde cada uno aporta su experiencia desde perspectivas diferentes, pero con un objetivo común. 
+Presentamos dos perfiles con características contrastadas, donde cada uno aporta su visión y experiencia desde perspectivas diferentes, pero con un objetivo común: disfrutar de una experiencia gastronómica de calidad mediada por una interfaz eficiente.
 
+Alex Lloréns es un joven técnico de alimentos, apasionado por la calidad del producto y la innovación, que utiliza su destreza tecnológica para buscar la máxima eficiencia y transparencia en sus pedidos. Elena Martínez, por otro lado, es una profesional médica creativa y profundamente comprometida con el bienestar animal y el consumo responsable (veganismo), que valora la simplicidad y la claridad de la información ante la saturación de su entorno laboral.
 
+![Persona #1](Persona#1.png)
+![Persona #2](Persona#2.png)
