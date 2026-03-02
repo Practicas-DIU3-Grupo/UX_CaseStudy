@@ -47,5 +47,5 @@ Presentamos dos perfiles con características contrastadas, donde cada uno aport
 
 Alex Lloréns es un joven técnico de alimentos, apasionado por la calidad del producto y la innovación, que utiliza su destreza tecnológica para buscar la máxima eficiencia y transparencia en sus pedidos. Elena Martínez, por otro lado, es una profesional médica creativa y profundamente comprometida con el bienestar animal y el consumo responsable (veganismo), que valora la simplicidad y la claridad de la información ante la saturación de su entorno laboral.
 
-![Persona #1](Persona#1.png)
-![Persona #2](Persona#2.png)
+![Persona #1](Persona1.png)
+![Persona #2](Persona2.png)
