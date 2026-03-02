@@ -40,3 +40,9 @@ Para contextualizar el análisis, compararemos "Goiko" con "Vicio" y "Mostaza Gr
 * https://mostazagreen.com
 
 ![Análisis Competitivo](Competitor_Analysis.png)
+
+## 3. Personas
+
+Presentamos dos personas distintas, donde cada uno aporta su experiencia desde perspectivas diferentes, pero con un objetivo común. 
+
+
