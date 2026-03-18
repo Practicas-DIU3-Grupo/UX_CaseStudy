@@ -43,7 +43,8 @@
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+* Sitemap
+![Sitemap](sitemap.png) 
 * Labelling 
 
 
