@@ -14,18 +14,16 @@
 
 * **User Task Matrix. H: High. M: Medium. L: Low**
 
-| Tareas / Grupos de Usuario | Clientes (Alex/Elena) | Staff / Cocina | Administradores (Goiko) |
+| Tareas / Grupos de Usuario | Jóvenes | Adultos | Trabajadores de Goiko |
 | :--- | :---: | :---: | :---: |
-| **Iniciar sesión / Registrarse** | H | H | H |
-| **Configurar / Personalizar burger** | H | M | - |
-| **Participar en concurso "myGoiko"** | H | - | M |
-| **Reservar mesa en local** | H | H | L |
-| **Consultar carta y alérgenos** | H | - | M |
-| **Gestionar pedidos entrantes** | - | H | L |
+| **Iniciar sesión / Registrarse** | H | M | H |
+| **Pedir / Personalizar burger** | H | L | - |
+| **Participar en concurso "myGoiko"** | H | M | L |
+| **Reservar mesa en local** | H | H | - |
+| **Consultar carta y alérgenos** | H | L | M |
+| **Votar por la creación del mes** | H | L | L |
 | **Validar propuestas ganadoras** | - | - | H |
-| **Mirar perfiles de otros creadores** | M | - | L |
-| **Acceder a métricas de ventas** | - | - | H |
-| **Resolver dudas con soporte** | M | M | H |
+| **Mirar perfiles de otros creadores** | M | L | L |
 
 * **User/Task flow**
 
