@@ -41,7 +41,7 @@ Miembros DIU3.RESCUE:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
-En la carpeta P1 se encuentran mejor detallados los siguientes apartados.
+En la carpeta * [P1](P1/) se encuentran mejor detallados los siguientes apartados.
 
 
 ### 1.a User Reseach Plan
