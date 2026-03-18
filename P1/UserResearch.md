@@ -1,1 +1,26 @@
+## 1. User Research Plan
 
+Este **UX Research Plan** define la estrategia de investigación para el sector de la **gourmet fast food**. El proyecto se centra en entender cómo los usuarios interactúan con plataformas digitales de alimentación donde la inmediatez del servicio debe convivir con una alta personalización del producto y una identidad visual potente. El objetivo es adquirir conocimientos que permitan optimizar el diseño de interfaces en el ámbito de la hostelería moderna, asegurando una transmisión clara de las acciones del usuario y una experiencia de uso memorable.
+
+* **Objetivos de investigación:**
+    * Evaluar la **eficiencia**: medir si el flujo de personalización de ingredientes (puntos de carne, toppings, alérgenos) es intuitivo y rápido.
+    * Analizar la **navegabilidad y arquitectura de información**: comprobar si los apartados críticos (carta, ubicación, reservas) son fácilmente localizables.
+    * Estudiar la **satisfacción y persuasión**: observar cómo influye la carga gráfica y el branding en la decisión final de compra y en la fidelización del usuario.
+* **Experiencia del equipo:**
+    * **Como observadores:** Hemos detectado que las interfaces de restauración a menudo priorizan la estética sobre la usabilidad, provocando que elementos visuales pesados o flujos de navegación cerrados dificulten tareas básicas como la edición del carrito o la consulta rápida de la carta.
+    * **Como diseñadores:** Contamos con las habilidades para desarrollar una arquitectura de información que equilibre el atractivo visual con un rendimiento técnico fluido y accesible.
+
+Se recopilará información **cualitativa y cuantitativa** para obtener una visión tridimensional del comportamiento del usuario:
+* **Cualitativa:** Pruebas de usabilidad moderadas, entrevistas de experiencia y estudios etnográficos para comprender las motivaciones y "puntos de dolor" durante la interacción.
+* **Cuantitativa:** Encuestas de satisfacción, análisis de métricas...
+
+Para garantizar la representatividad de la muestra, reclutaremos perfiles con distintas competencias:
+* **Nativos Digitales (18-35 años):** Usuarios habituados al e-commerce y apps de delivery que buscan rapidez, eficiencia y una estética de interfaz moderna.
+* **Usuarios con necesidades específicas:** Perfiles que pueden presentar dificultades ante interfaces complejas o que requieren información crítica de forma urgente (restricciones alimentarias, opciones veganas o baja competencia digital).
+
+Se proponen tareas críticas que testean la robustez y claridad de cualquier sistema de restauración gourmet:
+1.  **Personalización y Selección:** Configurar un producto complejo con modificaciones específicas de ingredientes y añadirlo correctamente al carrito de compra.
+2.  **Localización y Disponibilidad:** Localizar el punto de venta físico más cercano y verificar la disponibilidad de reserva o el horario de apertura en tiempo real.
+3.  **Gestión de Conversión:** Revisar el resumen del pedido, aplicar códigos promocionales y encontrar el desglose final de costes de servicio o envío.
+
+La investigación guiará decisiones estratégicas como la optimización de funcionalidades, la mejora de los tiempos de respuesta o la mejora visual (entre otros).
