@@ -13,17 +13,18 @@
 ### TASK ANALYSIS
 
 * User Task Matrix <br><br>
-| User Groups                          | Donantes | Transportistas | Administradores |
-|--------------------------------------|----------|----------------|-----------------|
-| Iniciar sesión / registrarse         | H        | H              | H               |
-| Crear puntos de recogida             | M        | H              |                 |
-| Buscar puntos de recolección cercanos| H        | M              |                 |
-| Participar en donaciones             | H        | L              |                 |
-| Donación entregada correctamente     | H        | H              | L               |
-| Mirar perfiles de otros usuarios     | H        | M              | M               |
-| Usar foro / comunidad                | M        | H              | L               |
-| Acceder a información del proceso    | H        | M              | H               |
-| Resolver dudas con soporte           |          |                | H               |
+| Tareas / Grupos de Usuario | Clientes (Alex/Elena) | Staff / Cocina | Administradores (Goiko) |
+| :--- | :---: | :---: | :---: |
+| **Iniciar sesión / Registrarse** | H | H | H |
+| **Configurar / Personalizar burger** | H | M | - |
+| **Participar en concurso "myGoiko"** | H | - | M |
+| **Reservar mesa en local** | H | H | L |
+| **Consultar carta y alérgenos** | H | - | M |
+| **Gestionar pedidos entrantes** | - | H | L |
+| **Validar propuestas ganadoras** | - | - | H |
+| **Mirar perfiles de otros creadores** | M | - | L |
+| **Acceder a métricas de ventas** | - | - | H |
+| **Resolver dudas con soporte** | M | M | H |
 <br>
 * User/Task flow
 
