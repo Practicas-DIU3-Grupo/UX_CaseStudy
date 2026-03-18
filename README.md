@@ -20,7 +20,7 @@ Descripción: Análisis de usabilidad y experincia de usuario de la plataforma w
 
 Logotipo: 
 
-![Logo Goiko](LogoGoiko.png)
+<img src="LogoGoiko.png" alt="Logo Goiko" width="15%">
 
 >>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
 
