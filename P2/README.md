@@ -12,7 +12,7 @@
 
 ### TASK ANALYSIS
 
-* **User Task Matrix**
+* **User Task Matrix. H: High. M: Medium. L: Low**
 
 | Tareas / Grupos de Usuario | Clientes (Alex/Elena) | Staff / Cocina | Administradores (Goiko) |
 | :--- | :---: | :---: | :---: |
