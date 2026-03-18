@@ -12,11 +12,11 @@ Grupo: DIU3.RESCUE
 
 Curso: 2025/26 
 
-Nombre del Proyecto: 
+Nombre del Proyecto: Análisis de Experiencia de Goiko
 
 >>> Decida el nombre corto de su propuesta en la práctica 2 
 
-Descripción: 
+Descripción: Análisis de usabilidad y experincia de usuario de la plataforma web de Goiko Grill, enfocada a la reserva y pedido de comida gourmet.
 
 >>> Describa la idea de su producto en la práctica 2 
 
@@ -26,7 +26,7 @@ Logotipo:
 
 Miembros DIU3.RESCUE:
  * :bust_in_silhouette:  Jorge García Rubio     :octocat: https://github.com/jrgeegr     
- * :bust_in_silhouette:  Raúl Gutiérrez Manrique     :octocat:
+ * :bust_in_silhouette:  Raúl Gutiérrez Manrique     :octocat: https://github.com/RaulGM03
 
 >>> Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
 
@@ -51,8 +51,8 @@ Miembros DIU3.RESCUE:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
-
+>>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.
+Nuestro plan de investigación se centra en evaluar la eficacia de la web de Goiko para usuarios con necesidades contrapuestas. Hemos seleccionado dos perfiles críticos: un usuario técnico/exigente (Alejandro) que busca precisión en los datos de los alimentos, y una usuaria con limitaciones de tiempo y dieta (Elena) que requiere rapidez y filtros claros (vegano). El objetivo es identificar fricciones en el proceso de pedido y reserva bajo condiciones de uso real.
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
