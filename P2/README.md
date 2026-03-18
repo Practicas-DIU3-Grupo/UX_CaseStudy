@@ -25,7 +25,10 @@
 | **Validar propuestas ganadoras** | - | - | H |
 | **Mirar perfiles de otros creadores** | M | L | L |
 
-* **User/Task flow**
+* **User/Task flow: se muestra el flujo de tres tareas que consideramos las más importantes:** registro, hacer un pedido y realizar tu creación de burger del mes
+![Registro](registro.png)
+![Pedido](pedido.png)
+![Creación Burger](creacionBurger.png)
 
 
 ### ARQUITECTURA DE INFORMACIÓN
