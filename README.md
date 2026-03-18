@@ -67,7 +67,8 @@ Hemos analizado la competencia directa de Goiko, comparándola con **Vicio** y *
 Hemos creado dos personas con objetivos opuestos para cubrir el mayor espectro de usuarios:
 * **Alejandro Lloréns:** Técnico de alimentos, detallista y amante de la calidad. Representa al usuario que lee la "letra pequeña" y valora la transparencia.
 * **Elena Martínez:** Médica de urgencias y vegana. Representa al usuario que navega con prisa, mala conexión y necesita encontrar opciones dietéticas específicas sin fricciones.
-*(Las fichas se encuentran en P1/Persona1.png y P1/Persona2.png)*
+![Persona1](P1/hombre.png)
+![Persona2](P1/mujer.png)
 
 
 ### 1.d User Journey Map
@@ -78,6 +79,9 @@ Se han diseñado dos mapas de experiencia (User Journey) que reflejan situacione
 1. **Alejandro:** Intenta personalizar un pedidio a domicilio tras un examen. Su experiencia decae ante la falta de información técnica clara en el checkout.
 2. **Elena:** Intenta reservar mesa desde el hospital con mala cobertura. Su punto crítico es el peso de la web y la complejidad del formulario de reserva.
 Estas experiencias son habituales y demuestran que la carga visual de la web a veces penaliza la funcionalidad.
+
+![User Journey 1](P1/UserJourney1.png)
+![User Journey 2](P1/UserJourney2.png)
 
 
 ### 1.e Usability Review
