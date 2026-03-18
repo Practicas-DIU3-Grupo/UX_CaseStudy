@@ -12,7 +12,19 @@
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+* User Task Matrix <br><br>
+| User Groups                          | Donantes | Transportistas | Administradores |
+|--------------------------------------|----------|----------------|-----------------|
+| Iniciar sesión / registrarse         | H        | H              | H               |
+| Crear puntos de recogida             | M        | H              |                 |
+| Buscar puntos de recolección cercanos| H        | M              |                 |
+| Participar en donaciones             | H        | L              |                 |
+| Donación entregada correctamente     | H        | H              | L               |
+| Mirar perfiles de otros usuarios     | H        | M              | M               |
+| Usar foro / comunidad                | M        | H              | L               |
+| Acceder a información del proceso    | H        | M              | H               |
+| Resolver dudas con soporte           |          |                | H               |
+<br>
 * User/Task flow
 
 
