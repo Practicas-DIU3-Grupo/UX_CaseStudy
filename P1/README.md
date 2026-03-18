@@ -60,7 +60,7 @@ Se han desarrollado dos mapas de experiencia de usuario para analizar los moment
 
 * **Experiencia de Elena:** Se centra en la reserva de mesa tras una guardia médica. El mapa destaca el "punto de dolor" que supone la mala respuesta de la interfaz con conexiones móviles inestables y la ambigüedad en la confirmación de opciones veganas.
 
-![User Journey Map 2](UserJourney 2.png)
+![User Journey Map 2](UserJourney2.png)
 
 
 ## 5. Usability Review
