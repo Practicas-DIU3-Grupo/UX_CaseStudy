@@ -67,8 +67,8 @@ Hemos analizado la competencia directa de Goiko, comparándola con **Vicio** y *
 Hemos creado dos personas con objetivos opuestos para cubrir el mayor espectro de usuarios:
 * **Alejandro Lloréns:** Técnico de alimentos, detallista y amante de la calidad. Representa al usuario que lee la "letra pequeña" y valora la transparencia.
 * **Elena Martínez:** Médica de urgencias y vegana. Representa al usuario que navega con prisa, mala conexión y necesita encontrar opciones dietéticas específicas sin fricciones.
-![Persona1](P1/hombre.png)
-![Persona2](P1/mujer.png)
+![Persona1](P1/Persona1.png)
+![Persona2](P1/Persona2.png)
 
 
 ### 1.d User Journey Map
