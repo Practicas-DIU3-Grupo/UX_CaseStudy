@@ -73,4 +73,14 @@ Para realizar la inspección de usabilidad, hemos utilizado el checklist basado 
 
 ## 6. Valoración final de la práctica
 
+Tras el análisis de usabilidad y experiencia de usuario realizado sobre la web de **Goiko**, se presentan las conclusiones obtenidas mediante la evaluación de dos perfiles de usuario diferenciados: **Alejandro**, un técnico de alimentos con alta competencia digital y exigencia informativa, y **Elena**, una profesional sanitaria con necesidades de navegación rápida y filtros específicos (dieta vegana).
+
+El estudio revela que, aunque Goiko posee una interfaz visualmente potente y atractiva que cumple con la fase de **Inspiración**, presenta deficiencias críticas en la fase de **Actuación (Reserva/Pedido)**. Los principales "puntos de dolor" detectados incluyen:
+
+* **Rendimiento:** Una carga excesiva de elementos gráficos que dificulta la navegación en dispositivos móviles con conexiones inestables (caso de Elena).
+* **Arquitectura de Información:** Falta de transparencia técnica en el desglose de ingredientes y alérgenos, algo vital para usuarios expertos o con restricciones alimentarias (caso de Alejandro).
+* **El checkout:** El proceso de reserva y personalización de productos presenta elementos interactivos pequeños y poco intuitivos para el uso táctil.
+
+**Valoración final:** La web es excelente como catálogo publicitario, pero mejorable como herramienta transaccional. Se recomienda la implementación de un **"Modo Lite"** para conexiones lentas, una simplificación del formulario de reserva y una mayor visibilidad de la información nutricional. Estas mejoras no solo optimizarían la conversión, sino que elevarían la satisfacción de los usuarios con necesidades específicas.
+
 
