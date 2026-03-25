@@ -50,28 +50,15 @@
 | Label                | Scope Note                                                   
 |-------------------------|--------------------------------------------------------|
 | Página de Inicio        | Página principal del sitio web                         |
-| CONTACTO                | Sección para contactar con la organización             |
-| Magazine                | Publicaciones y artículos sobre la temática            |
-| QUIENES SOMOS           | Información sobre la organización y su misión          |
-| Proyecto                | Descripción del proyecto principal                     |
-| Impacto                 | Datos y métricas sobre el impacto del proyecto         |
-| Transparencia           | Información sobre transparencia y gestión de recursos  |
-| I+D                     | Investigación y desarrollo relacionados                |
-| COLABORA                | Sección para colaborar con la organización             |
-| Empresa                 | Cómo pueden colaborar las empresas                     |
-| Institución Pública     | Participación de entidades gubernamentales             |
-| Particular              | Opciones de colaboración para particulares             |
-| Tiendas                 | Tiendas que participan en la iniciativa                |
-| Contenedores            | Información sobre puntos de recogida                   |
-| INICIO SESIÓN / REGISTRO | Sección de autenticación de usuarios                  |
-| Perfil                  | Información y gestión del perfil de usuario            |
-| Comunidad               | Espacio para interacción y colaboración entre usuarios |
-| Foro/Chat               | Plataforma para discusión e intercambio de información |
-| Crear Puntos de recogida | Opción para generar nuevos puntos de recogida         |
-| Buscar Puntos de recogida | Opción para localizar puntos de recogida existentes  |
-| Información Proceso     | Detalles sobre el proceso de recogida y participación  |
-| Participar              | Formas en las que se puede participar                  |
-
+| Iniciar Sesión          | Sección para iniciar sesión / Registrarse              |
+| Realizar Creación       | Página donde puedes registrar tu creación de burger    |
+| Votar Hamburguesa       | Formulario de votos de creaciones mensuales            |
+| Museo Hamburguesas      | Hamburguesas pasadas seleccionadas por el programa     |
+| Perfil Usuario          | Datos y creaciones del usuario                         |
+| Quiénes Somos           | Información sobre la hamburguesería                    |
+| Aviso Legal             | Página con términos y condiciones...                   |
+| Copyright               | Sección sobre el copyright                             |
+| Política de Cookies     | Cookis utilizadas en el sitio web                      |
 
 ### Prototipo Lo-FI Wireframe 
 
