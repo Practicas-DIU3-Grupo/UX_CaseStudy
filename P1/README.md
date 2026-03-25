@@ -1,8 +1,5 @@
 # DIU - Practica 1, entregables
 
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
-
 ## 1. User Research Plan
 
 Este **UX Research Plan** define la estrategia de investigación para el sector de la **gourmet fast food**. El proyecto se centra en entender cómo los usuarios interactúan con plataformas digitales de alimentación donde la inmediatez del servicio debe convivir con una alta personalización del producto y una identidad visual potente. El objetivo es adquirir conocimientos que permitan optimizar el diseño de interfaces en el ámbito de la hostelería moderna, asegurando una transmisión clara de las acciones del usuario y una experiencia de uso memorable.
