@@ -17,12 +17,12 @@
 | Tareas / Grupos de Usuario | Jóvenes | Adultos | Trabajadores de Goiko |
 | :--- | :---: | :---: | :---: |
 | **Iniciar sesión / Registrarse** | H | M | H |
-| **Pedir / Personalizar burger** | H | L | - |
+| **Personalizar burger** | M | L | - |
 | **Participar en la votacion "GoikoMes** | H | M | L |
 | **Reservar mesa en local** | H | H | - |
-| **Consultar carta y alérgenos** | H | L | M |
-| **Pedir a domicilio** | H | L | L |
-| **Pedir la burger del mes** | - | - | H |
+| **Consultar carta y alérgenos** | H | M | M |
+| **Pedir a domicilio** | H | M | L |
+| **Pedir la burger del mes** | M | H | M |
 | **Mirar las GoikoMes históricas** | M | L | L |
 
 * **User/Task flow: se muestra el flujo de tres tareas que consideramos las más importantes:** registro, hacer un pedido y realizar tu creación de burger del mes
