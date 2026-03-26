@@ -25,13 +25,13 @@
 | **Pedir la burger del mes** | M | H | M |
 | **Mirar las GoikoMes históricas** | M | L | L |
 
-* **User/Task flow: se muestra el flujo de tres tareas que consideramos las más importantes:** registro, hacer un pedido y realizar tu creación de burger del mes
+* **User/Task flow: se muestra el flujo de tres tareas que consideramos las más importantes:** hacer pedido y votar, revisar las burgers pasadas (Salón de la Fama) y pedir una similar
 
-![Registro](registro.png)
+![votacion](votacion.png)
 
 ---
 
-![Pedido](pedido.png)
+![Historicas](mensuales_historicas.png)
 
 ---
 
