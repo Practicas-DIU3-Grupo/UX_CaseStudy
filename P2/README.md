@@ -41,15 +41,21 @@
 ![Sitemap](SiteMap.png) 
 * Labelling 
 
-| Label                | Scope Note                                                   
+| Label                   | Scope Note                                                   
 |-------------------------|--------------------------------------------------------|
 | Página de Inicio        | Página principal del sitio web                         |
 | Iniciar Sesión          | Sección para iniciar sesión / Registrarse              |
-| Realizar Creación       | Página donde puedes registrar tu creación de burger    |
-| Votar Hamburguesa       | Formulario de votos de creaciones mensuales            |
-| Museo Hamburguesas      | Hamburguesas pasadas seleccionadas por el programa     |
-| Perfil Usuario          | Datos y creaciones del usuario                         |
-| Quiénes Somos           | Información sobre la hamburguesería                    |
+| Realizar Pedido         | Página donde puedes realizar tu pedido                 |
+| Vota la Burger del Mes  | Página sólo accesible después de pagar un pedido, vota la burger del mes |
+| Reservar Mesa           | Página para reservar mesa en un local                  |
+| Carta                   | Carta de la hamburguesería                             |
+| Perfil Usuario          | Datos y pedidos del usuario                            |
+| GoikoMes                | Página principal de la nueva propuesta                 |
+| Pide y Vota             | Igual que Realizar Pedido                              |
+| Votaciones del Mes      | Información sobre la votación de las actuales propuestas |
+| Salón de la Fama        | Burgers y creadores pasados                            |
+| Creadores               | Información sobre los creadores de las burgers del mes |
+| Perfil del Creador      | Información sobre X creador de mínimo 1 burger del mes |
 | Aviso Legal             | Página con términos y condiciones...                   |
 | Copyright               | Sección sobre el copyright                             |
 | Política de Cookies     | Cookis utilizadas en el sitio web                      |
